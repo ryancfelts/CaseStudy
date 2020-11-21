@@ -20,4 +20,5 @@ Plaid as a FinTech company: Plaid is at the foundation of FinTech. Working with 
 
 They provide customers of banks with secure ways to access their accounts. Recently companies, such as PayPal, have had to link customer's bank accounts by taking some amount out of their account and confirming with the customer that this was correct. This can take days and is not the most efficient process. Plaid fixes this problem and, although, the banks have to agree to connect with Plaid, more than 10,000 of them have done so. They are not very big at the moment and need to expand the use of their technology if they want to grow larger than their predecessors.
 
-
+**VERDICT
+Ultimately Plaid has a strong foothold on the market for the services they provide. However, as more competitiors rise in the marketplace to compete they will need to continue to improve services that attract busineeses such as security and cloud API which their competitiors are advertising to their advantage.
